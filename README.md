@@ -1,5 +1,2 @@
 Página com bootstrap
-
-https://gustavobabberg.github.io/Pagina-com-bootstrap/
-
-<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/f2aa9022-0ff9-43d7-b98f-1e272f7f1794" />
+<img width="1168" height="905" alt="image" src="https://github.com/user-attachments/assets/e02ded43-7a3a-4c43-8ac4-7e97cdec6cf6" />
